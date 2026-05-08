@@ -6,7 +6,7 @@
 
 ## HDFC Bank Home Loan EMI Calculator क्या है?
 
-<a href="propbirds.com/calculators/hdfc-bank-home-loan-emi-calculator/">HDFC Bank Home Loan EMI Calculator</a> एक free online tool है जो आपको यह बताता है कि किसी निश्चित loan amount, interest rate और tenure पर आपकी monthly EMI कितनी होगी।
+HDFC Bank Home Loan EMI Calculator एक free online tool है जो आपको यह बताता है कि किसी निश्चित loan amount, interest rate और tenure पर आपकी monthly EMI कितनी होगी।
 
 इसे use करने के लिए आपको सिर्फ तीन चीजें डालनी होती हैं:
 
